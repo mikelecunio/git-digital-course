@@ -8,5 +8,5 @@
 ## Salvando modoficaciones en Git
 *uso del commando git restore
 
-*commando git push
-
+*comando git push
+*comando git pull
